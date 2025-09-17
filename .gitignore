@@ -1,2 +1,7 @@
-/node_modules
-.env
+# Ignore node_modules in all folders
+node_modules/
+
+# Ignore build outputs
+/frontend/build
+/backend/build
+/dist
